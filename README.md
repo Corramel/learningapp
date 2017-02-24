@@ -11,3 +11,6 @@ No api needed(?) - look into that
 Set of problems to do
 Perhaps doing it with Unity would be easier?
 Math & Programming? (Ex, making your own quadratic function solver)
+
+# Material Design
+https://coolors.co/0b3954-e56399-7f96ff-fed766-a6cfd5
