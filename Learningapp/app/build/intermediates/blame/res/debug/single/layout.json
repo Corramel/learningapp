@@ -44,6 +44,10 @@
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\word_list_item.xml",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\layout\\word_list_item.xml"
+    },
+    {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
@@ -104,12 +108,12 @@
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
-        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
@@ -128,12 +132,12 @@
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
-        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
-    },
-    {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
@@ -158,6 +162,10 @@
     {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\25.0.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\word_activity.xml",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\layout\\word_activity.xml"
     },
     {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",

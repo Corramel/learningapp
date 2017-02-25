@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<fragment
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent" android:layout_height="match_parent"
+    android:name="com.example.android.learningapp.WordSettings$WordPreferenceFragment"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.android.learningapp.WordSettings"
+    >
+    <EditText
+        android:id="@+id/zipcode"
+        android:hint="Enter a word, kind of like 'quiet'"
+        android:inputType="text"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content" />
+    <Button
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Set Search"
+        android:id="@+id/changezip"
+        android:onClick="setZip"
+        />
+
+</fragment>

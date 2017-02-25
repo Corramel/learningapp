@@ -27,9 +27,9 @@
     <color name="bright_foreground_material_light">@android:color/black</color>
     <color name="button_material_dark">#ff5a595b</color>
     <color name="button_material_light">#ffd6d7d7</color>
-    <color name="colorAccent">#FF4081</color>
-    <color name="colorPrimary">#3F51B5</color>
-    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#10CAC9</color>
+    <color name="colorPrimary">#2B3D4D</color>
+    <color name="colorPrimaryDark">#23303D</color>
     <color name="dim_foreground_disabled_material_dark">#80bebebe</color>
     <color name="dim_foreground_disabled_material_light">#80323232</color>
     <color name="dim_foreground_material_dark">#ffbebebe</color>
@@ -38,6 +38,16 @@
     <color name="foreground_material_light">@android:color/black</color>
     <color name="highlighted_text_material_dark">#6680cbc4</color>
     <color name="highlighted_text_material_light">#66009688</color>
+    <color name="magnitude1">#4A7BA7</color>
+    <color name="magnitude10plus">#C03823</color>
+    <color name="magnitude2">#04B4B3</color>
+    <color name="magnitude3">#10CAC9</color>
+    <color name="magnitude4">#F5A623</color>
+    <color name="magnitude5">#FF7D50</color>
+    <color name="magnitude6">#FC6644</color>
+    <color name="magnitude7">#E75F40</color>
+    <color name="magnitude8">#E13A20</color>
+    <color name="magnitude9">#D93218</color>
     <color name="material_blue_grey_800">#ff37474f</color>
     <color name="material_blue_grey_900">#ff263238</color>
     <color name="material_blue_grey_950">#ff21272b</color>
@@ -71,6 +81,8 @@
     <color name="switch_thumb_disabled_material_light">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_dark">#ffbdbdbd</color>
     <color name="switch_thumb_normal_material_light">#fff1f1f1</color>
+    <color name="textColorEarthquakeDetails">#404245</color>
+    <color name="textColorEarthquakeLocation">#2B3D4D</color>
     <declare-styleable name="ActionBar"><attr name="navigationMode">
             
             <enum name="normal" value="0"/>
