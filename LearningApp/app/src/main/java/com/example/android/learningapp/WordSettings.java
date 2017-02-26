@@ -5,6 +5,7 @@ import android.preference.PreferenceFragment;
 import android.support.v7.app.AppCompatActivity;
 import android.view.View;
 import android.widget.EditText;
+import android.widget.TextView;
 
 public class WordSettings extends AppCompatActivity {
 
@@ -18,6 +19,7 @@ public class WordSettings extends AppCompatActivity {
     public void setZip(View view) {
         EditText newZipCode = (EditText) findViewById(R.id.zipcode);
         searchTopic = newZipCode.getText().toString();
+        TextView listViewTitle = (TextView) findViewById(R.id.wordName);
     }
     public static class WordPreferenceFragment extends PreferenceFragment {
 

@@ -1,5 +1,9 @@
 [
     {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\word_list.png",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\word_list.png"
+    },
+    {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi\\ic_launcher.png",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher.png"
     }

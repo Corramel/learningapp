@@ -2,5 +2,9 @@
     {
         "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\ic_launcher.png",
         "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi\\sun_icon.png",
+        "source": "C:\\Users\\Corr\\Documents\\GitHub\\learningapp\\LearningApp\\app\\src\\main\\res\\mipmap-hdpi\\sun_icon.png"
     }
 ]

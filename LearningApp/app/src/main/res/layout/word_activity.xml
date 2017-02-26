@@ -1,12 +1,43 @@
 <?xml version="1.0" encoding="utf-8"?>
 
 <!-- Layout for a list of earthquakes -->
-<ListView xmlns:android="http://schemas.android.com/apk/res/android"
-    android:id="@+id/list"
-    android:orientation="vertical"
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent"
-    android:divider="@null"
-    android:dividerHeight="2dp"
+    android:layout_height="wrap_content"
     xmlns:tools="http://schemas.android.com/tools"
-    tools:context="com.example.android.learningapp.WordActivity"/>
+    android:orientation="vertical">
+    <TextView
+        android:id="@+id/wordName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:fontFamily="sans-serif-medium"
+        android:maxLines="2"
+        android:textAllCaps="true"
+        android:textColor="@color/textColorEarthquakeDetails"
+        android:textSize="50sp"
+        tools:text="QUIET"
+        android:gravity="center_horizontal"/>
+    <TextView
+        android:id="@+id/pronounce"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:ellipsize="end"
+        android:fontFamily="sans-serif-medium"
+        android:maxLines="2"
+        android:textAllCaps="false"
+        android:textColor="@color/textColorEarthquakeDetails"
+        android:textSize="25sp"
+        tools:text="(kwaɪɪt)"
+        android:gravity="center_horizontal"/>
+
+    <ListView xmlns:android="http://schemas.android.com/apk/res/android"
+        android:id="@+id/list"
+        android:orientation="vertical"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:divider="@null"
+        android:dividerHeight="2dp"
+        xmlns:tools="http://schemas.android.com/tools"
+        tools:context="com.example.android.learningapp.WordActivity"/>
+</LinearLayout>
